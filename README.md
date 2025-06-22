@@ -90,6 +90,7 @@ Secondary Text: #717171
 Primary Font: Circular, Medium (500), 16px
 Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
+
 **Importance of Identifying Design Properties in a Mockup**
 
 Identifying design properties—such as color styles, typography, spacing, and component behavior—from a mockup is critical for turning a visual design into a functional, user-friendly product. Here's why:
@@ -118,3 +119,30 @@ Iterative Design Process: Mockups support an iterative design approach, allowing
 | **DevOps Engineers**    | Manages deployment, CI/CD pipeline, server infrastructure                     |
 | **Product Owner**       | Defines requirements, prioritizes features, represents stakeholders           |
 | **Scrum Master**        | Facilitates agile processes, removes blockers, organizes meetings             |
+
+**UI Component Patterns**
+
+**Planned Components**
+
+**Navbar**
+
+Logo
+Search bar
+User navigation
+Responsive menu
+
+**Property Card**
+
+Property image
+Basic details (price, location, rating)
+Favorite button
+Responsive layout
+
+**Footer**
+
+Site links
+Company information
+Social media links
+Copyright information
+
+Each component will be designed for reusability and consistency across the application.
