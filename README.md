@@ -41,20 +41,46 @@ Accessibility: Follow WCAG guidelines
 Documentation: Keep all project documentation updated
 Testing: Implement unit and integration tests
 **Design Goals**
+
 Create intuitive booking flow
 Maintain visual consistency
 Ensure fast loading times
 Prioritize mobile responsiveness
 **Key Features**
+
 Property search and filtering
 Detailed property viewing
 Secure checkout process
 User authentication
 **Primary Pages**
+
 | Page                   | Description                                                  |
 |------------------------|--------------------------------------------------------------|
 | Property Listing View  | Grid display of available properties with filters            |
 | Listing Detailed View  | Complete property details with images and booking form       |
 | Simple Checkout View   | Streamlined payment and booking confirmation                 |
+
 **Importance of User-Friendly Design**
+
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+**Figma Design Specifications**
+**Color Styles:**
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+**Typography:**
+
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+**Importance of Identifying Design Properties in a Mockup**
+Identifying design properties—such as color styles, typography, spacing, and component behavior—from a mockup is critical for turning a visual design into a functional, user-friendly product. Here's why:
+Enhanced Communication: Mockups serve as a visual bridge between designers and stakeholders, facilitating clear communication of the design vision and intended user experience. 
+Early Problem Identification: By simulating the look and feel of the final product, mockups allow for the early detection of usability issues, design flaws, and inconsistencies in the interface or user flow. 
+Informed Decision Making: The feedback gathered from mockups helps designers make informed decisions about design choices, such as layout, color palettes, typography, and overall aesthetics. 
+Cost and Time Efficiency: Identifying and addressing design issues early on through mockups prevents costly rework and delays during the development phase. 
+Client and Stakeholder Buy-in: Realistic mockups can be powerful tools for presenting design concepts to clients and stakeholders, building confidence and securing their support for the project. 
+Iterative Design Process: Mockups support an iterative design approach, allowing designers to refine and improve the design based on feedback and testing results. 
