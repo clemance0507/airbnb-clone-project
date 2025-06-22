@@ -95,17 +95,17 @@ Secondary Text: Circular, Book (400), 14px
 
 Identifying design properties—such as color styles, typography, spacing, and component behavior—from a mockup is critical for turning a visual design into a functional, user-friendly product. Here's why:
 
-Enhanced Communication: Mockups serve as a visual bridge between designers and stakeholders, facilitating clear communication of the design vision and intended user experience. 
+**Enhanced Communication**: Mockups serve as a visual bridge between designers and stakeholders, facilitating clear communication of the design vision and intended user experience. 
 
-Early Problem Identification: By simulating the look and feel of the final product, mockups allow for the early detection of usability issues, design flaws, and inconsistencies in the interface or user flow. 
+**Early Problem Identification**: By simulating the look and feel of the final product, mockups allow for the early detection of usability issues, design flaws, and inconsistencies in the interface or user flow. 
 
-Informed Decision Making: The feedback gathered from mockups helps designers make informed decisions about design choices, such as layout, color palettes, typography, and overall aesthetics. 
+**Informed Decision Making**: The feedback gathered from mockups helps designers make informed decisions about design choices, such as layout, color palettes, typography, and overall aesthetics. 
 
-Cost and Time Efficiency: Identifying and addressing design issues early on through mockups prevents costly rework and delays during the development phase. 
+**Cost and Time Efficiency**: Identifying and addressing design issues early on through mockups prevents costly rework and delays during the development phase. 
 
-Client and Stakeholder Buy-in: Realistic mockups can be powerful tools for presenting design concepts to clients and stakeholders, building confidence and securing their support for the project. 
+**Client and Stakeholder Buy-in**: Realistic mockups can be powerful tools for presenting design concepts to clients and stakeholders, building confidence and securing their support for the project. 
 
-Iterative Design Process: Mockups support an iterative design approach, allowing designers to refine and improve the design based on feedback and testing results. 
+**Iterative Design Process**: Mockups support an iterative design approach, allowing designers to refine and improve the design based on feedback and testing results. 
 
 **Project Roles and Responsibilities**
 
@@ -127,22 +127,32 @@ Iterative Design Process: Mockups support an iterative design approach, allowing
 **Navbar**
 
 Logo
+
 Search bar
+
 User navigation
+
 Responsive menu
 
 **Property Card**
 
 Property image
+
 Basic details (price, location, rating)
+
 Favorite button
+
 Responsive layout
 
 **Footer**
 
 Site links
+
 Company information
+
 Social media links
+
 Copyright information
+
 
 Each component will be designed for reusability and consistency across the application.
