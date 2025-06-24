@@ -14,11 +14,11 @@ By completing this project, you will:
 
 **Tech Stack**
 
-**- Frontend:** HTML, CSS, JavaScript (React or similar framework)
+- **Frontend:** HTML, CSS, JavaScript (React or similar framework)
 
-**- Version Control:** Git and GitHub
+- **Version Control:** Git and GitHub
 
-**- Design Tools:** Figma for UI/UX design
+- **Design Tools:** Figma for UI/UX design
 
 **Requirements**
 
@@ -46,12 +46,12 @@ By completing this project, you will:
 
 **Best Practices**
 
-**- Code Organization**: Maintain clean, modular code structure
-**- Version Control:** Use feature branches and meaningful commit messages
-**- Responsive Design:** Ensure mobile-first approach
-**- Accessibility:** Follow WCAG guidelines
-**- Documentation:** Keep all project documentation updated
-**- Testing:** Implement unit and integration tests
+- **Code Organization**: Maintain clean, modular code structure
+- **Version Control:** Use feature branches and meaningful commit messages
+- **Responsive Design:** Ensure mobile-first approach
+- **Accessibility:** Follow WCAG guidelines
+- **Documentation:** Keep all project documentation updated
+- **Testing:** Implement unit and integration tests
 
 **Design Goals**
 
@@ -105,19 +105,19 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 Identifying design properties—such as color styles, typography, spacing, and component behavior—from a mockup is critical for turning a visual design into a functional, user-friendly product. Here's why:
 
-**- Enhanced Communication**: Mockups serve as a visual bridge between designers and stakeholders, facilitating clear communication of the design vision and intended user experience. 
+- **Enhanced Communication**: Mockups serve as a visual bridge between designers and stakeholders, facilitating clear communication of the design vision and intended user experience. 
 
-**- Early Problem Identification**: By simulating the look and feel of the final product, mockups allow for the early detection of usability issues, design flaws, and inconsistencies in the interface or user flow. 
+- **Early Problem Identification**: By simulating the look and feel of the final product, mockups allow for the early detection of usability issues, design flaws, and inconsistencies in the interface or user flow. 
 
-**- Informed Decision Making**: The feedback gathered from mockups helps designers make informed decisions about design choices, such as layout, color palettes, typography, and overall aesthetics. 
+- **Informed Decision Making**: The feedback gathered from mockups helps designers make informed decisions about design choices, such as layout, color palettes, typography, and overall aesthetics. 
 
-**- Cost and Time Efficiency**: Identifying and addressing design issues early on through mockups prevents costly rework and delays during the development phase. 
+- **Cost and Time Efficiency**: Identifying and addressing design issues early on through mockups prevents costly rework and delays during the development phase. 
 
-**- Client and Stakeholder Buy-in**: Realistic mockups can be powerful tools for presenting design concepts to clients and stakeholders, building confidence and securing their support for the project. 
+- **Client and Stakeholder Buy-in**: Realistic mockups can be powerful tools for presenting design concepts to clients and stakeholders, building confidence and securing their support for the project. 
 
-**- Iterative Design Process**: Mockups support an iterative design approach, allowing designers to refine and improve the design based on feedback and testing results. 
+- **Iterative Design Process**: Mockups support an iterative design approach, allowing designers to refine and improve the design based on feedback and testing results. 
 
-**- Project Roles and Responsibilities**
+**Project Roles and Responsibilities**
 
 | Role                    | Responsibilities                                                              |
 |--------------------     |-------------------------------------------------------------------------------|
@@ -136,33 +136,33 @@ Identifying design properties—such as color styles, typography, spacing, and c
 
 **1. Navbar**
 
-**-** Logo
+- Logo
 
-**-** Search bar
+- Search bar
 
-**-** User navigation
+- User navigation
 
-**-** Responsive menu
+- Responsive menu
 
 **2. Property Card**
 
-**-** Property image
+- Property image
 
-**-** Basic details (price, location, rating)
+- Basic details (price, location, rating)
 
-**-** Favorite button
-**
--** Responsive layout
+- Favorite button
+
+- Responsive layout
 
 **3. Footer**
 
-**-** Site links
+- Site links
 
-**-** Company information
+- Company information
 
-**-** Social media links
+- Social media links
 
-**-** Copyright information
+- Copyright information
 
 
 Each component will be designed for reusability and consistency across the application.
