@@ -6,63 +6,66 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 By completing this project, you will:
 
-Learn to implement responsive UI/UX designs
-Understand how to structure a complex web application
-Practice working in a team with defined roles
-Develop skills in component-based frontend architecture
-Learn best practices for web application development
+- Learn to implement responsive UI/UX designs
+- Understand how to structure a complex web application
+- Practice working in a team with defined roles
+- Develop skills in component-based frontend architecture
+- Learn best practices for web application development
 
 **Tech Stack**
 
-Frontend: HTML, CSS, JavaScript (React or similar framework)
-Version Control: Git and GitHub
-Design Tools: Figma for UI/UX design
-UI/UX Design Planning
+**- Frontend:** HTML, CSS, JavaScript (React or similar framework)
+
+**- Version Control:** Git and GitHub
+
+**- Design Tools:** Figma for UI/UX design
 
 **Requirements**
 
-**Project Initialization**
+**1. Project Initialization**
 
-Set up GitHub repository with proper documentation
-Include comprehensive README with project overview
+- Set up GitHub repository with proper documentation
+- Include comprehensive README with project overview
 
-**UI/UX Design Planning**
+**2. UI/UX Design Planning**
 
-Document design goals and key features
-Create page descriptions for main views
-Analyze Figma design specifications
-Identify color schemes and typography
+- Document design goals and key features
+- Create page descriptions for main views
+- Analyze Figma design specifications
+- Identify color schemes and typography
 
-**Roles and Responsibilities**
+**3. Roles and Responsibilities**
 
-Define team structure and responsibilities
-Document each role’s contribution to the project
-UI Component Patterns
+- Define team structure and responsibilities
+- Document each role’s contribution to the project
 
-**Plan reusable UI components**
+**4. UI Component Patterns**
 
-Document component architecture
-Best Practices
-Code Organization: Maintain clean, modular code structure
-Version Control: Use feature branches and meaningful commit messages
-Responsive Design: Ensure mobile-first approach
-Accessibility: Follow WCAG guidelines
-Documentation: Keep all project documentation updated
-Testing: Implement unit and integration tests
+- Plan reusable UI components
+- Document component architecture
+
+**Best Practices**
+
+**- Code Organization**: Maintain clean, modular code structure
+**- Version Control:** Use feature branches and meaningful commit messages
+**- Responsive Design:** Ensure mobile-first approach
+**- Accessibility:** Follow WCAG guidelines
+**- Documentation:** Keep all project documentation updated
+**- Testing:** Implement unit and integration tests
 
 **Design Goals**
 
-Create intuitive booking flow
-Maintain visual consistency
-Ensure fast loading times
-Prioritize mobile responsiveness
+- Create intuitive booking flow
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
 
 **Key Features**
 
-Property search and filtering
-Detailed property viewing
-Secure checkout process
-User authentication
+- Property search and filtering
+- Detailed property viewing
+- Secure checkout process
+- User authentication
 
 **Primary Pages**
 
@@ -80,41 +83,41 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 **Color Styles:**
 
-Primary: #FF5A5F
+- Primary: #FF5A5F
 
-Secondary: #008489
+- Secondary: #008489
 
-Background: #FFFFFF
+- Background: #FFFFFF
 
-Text: #222222
+- Text: #222222
 
-Secondary Text: #717171
+- Secondary Text: #717171
 
 **Typography:**
 
-Primary Font: Circular, Medium (500), 16px
+- Primary Font: Circular, Medium (500), 16px
 
-Headings: Circular, Bold (700), 24px-32px
+- Headings: Circular, Bold (700), 24px-32px
 
-Secondary Text: Circular, Book (400), 14px
+- Secondary Text: Circular, Book (400), 14px
 
 **Importance of Identifying Design Properties in a Mockup**
 
 Identifying design properties—such as color styles, typography, spacing, and component behavior—from a mockup is critical for turning a visual design into a functional, user-friendly product. Here's why:
 
-**Enhanced Communication**: Mockups serve as a visual bridge between designers and stakeholders, facilitating clear communication of the design vision and intended user experience. 
+**- Enhanced Communication**: Mockups serve as a visual bridge between designers and stakeholders, facilitating clear communication of the design vision and intended user experience. 
 
-**Early Problem Identification**: By simulating the look and feel of the final product, mockups allow for the early detection of usability issues, design flaws, and inconsistencies in the interface or user flow. 
+**- Early Problem Identification**: By simulating the look and feel of the final product, mockups allow for the early detection of usability issues, design flaws, and inconsistencies in the interface or user flow. 
 
-**Informed Decision Making**: The feedback gathered from mockups helps designers make informed decisions about design choices, such as layout, color palettes, typography, and overall aesthetics. 
+**- Informed Decision Making**: The feedback gathered from mockups helps designers make informed decisions about design choices, such as layout, color palettes, typography, and overall aesthetics. 
 
-**Cost and Time Efficiency**: Identifying and addressing design issues early on through mockups prevents costly rework and delays during the development phase. 
+**- Cost and Time Efficiency**: Identifying and addressing design issues early on through mockups prevents costly rework and delays during the development phase. 
 
-**Client and Stakeholder Buy-in**: Realistic mockups can be powerful tools for presenting design concepts to clients and stakeholders, building confidence and securing their support for the project. 
+**- Client and Stakeholder Buy-in**: Realistic mockups can be powerful tools for presenting design concepts to clients and stakeholders, building confidence and securing their support for the project. 
 
-**Iterative Design Process**: Mockups support an iterative design approach, allowing designers to refine and improve the design based on feedback and testing results. 
+**- Iterative Design Process**: Mockups support an iterative design approach, allowing designers to refine and improve the design based on feedback and testing results. 
 
-**Project Roles and Responsibilities**
+**- Project Roles and Responsibilities**
 
 | Role                    | Responsibilities                                                              |
 |--------------------     |-------------------------------------------------------------------------------|
@@ -131,35 +134,35 @@ Identifying design properties—such as color styles, typography, spacing, and c
 
 **Planned Components**
 
-**Navbar**
+**1. Navbar**
 
-Logo
+**-** Logo
 
-Search bar
+**-** Search bar
 
-User navigation
+**-** User navigation
 
-Responsive menu
+**-** Responsive menu
 
-**Property Card**
+**2. Property Card**
 
-Property image
+**-** Property image
 
-Basic details (price, location, rating)
+**-** Basic details (price, location, rating)
 
-Favorite button
+**-** Favorite button
+**
+-** Responsive layout
 
-Responsive layout
+**3. Footer**
 
-**Footer**
+**-** Site links
 
-Site links
+**-** Company information
 
-Company information
+**-** Social media links
 
-Social media links
-
-Copyright information
+**-** Copyright information
 
 
 Each component will be designed for reusability and consistency across the application.
