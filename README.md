@@ -63,6 +63,7 @@ Property search and filtering
 Detailed property viewing
 Secure checkout process
 User authentication
+
 **Primary Pages**
 
 | Page                   | Description                                                  |
